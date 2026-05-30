@@ -1,0 +1,319 @@
+{
+  "header": {
+    "title": "Social Media Graphic Creator",
+    "download": "Download HD"
+  },
+  "editor": {
+    "sizeSettings": "Size Settings",
+    "textSettings": "Text Settings",
+    "backgroundSettings": "Background Settings",
+    "watermarkSettings": "Watermark Settings",
+    "exportSettings": "Export Settings",
+    "placeholder": "Enter your text here (supports multiple lines)",
+    "font": "Font",
+    "fontSize": "Font Size",
+    "fontColor": "Font Color",
+    "textAlign": "Text Alignment",
+    "lineHeight": "Line Height",
+    "left": "Left",
+    "center": "Center",
+    "right": "Right",
+    "bgColor": "Background Color",
+    "uploadBg": "Upload Image",
+    "clearBg": "Clear",
+    "bgMode": "Image Display Mode",
+    "cover": "Cover",
+    "contain": "Contain",
+    "repeat": "Repeat",
+    "downloadHigh": "Download HD (PNG)",
+    "downloadNormal": "Download Normal (PNG)",
+    "supportText": "Supports major social media platforms, export without watermark",
+    "douyinVertical": "Douyin Vertical",
+    "douyinHorizontal": "Douyin Horizontal",
+    "xiaohongshu": "Xiaohongshu",
+    "officialAccount": "Official Account",
+    "wechatChannels": "Channels",
+    "custom": "Custom",
+    "width": "Width",
+    "height": "Height"
+  },
+  "watermark": {
+    "title": "Watermark Settings",
+    "enabled": "Enable Watermark",
+    "text": "Watermark Text",
+    "textPlaceholder": "Enter watermark text",
+    "position": "Position",
+    "textColor": "Text Color",
+    "fontSize": "Font Size",
+    "opacity": "Opacity",
+    "imageWatermark": "Image Watermark",
+    "imageUrl": "Image URL",
+    "imageOpacity": "Image Opacity",
+    "clear": "Clear",
+    "uploadImage": "Click or drag to upload image",
+    "supportedFormats": "Supports JPG, PNG, GIF formats"
+  },
+  "preview": {
+    "title": "Live Preview",
+    "sizeInfo": "Size"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have questions or suggestions? Feel free to reach out!",
+    "email": "Email",
+    "wechat": "WeChat",
+    "qrcodeText": "Scan to add",
+    "qrcodeExpired": "If WeChat QR code doesn't work, contact us via email above"
+  },
+  "footer": {
+    "copyrightPrefix": "Social Media Graphic Creator ©",
+    "compatible": "Mobile & PC Compatible",
+    "noWatermark": "Watermark-free Export Supported",
+    "about": "About",
+    "faq": "FAQ",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  },
+  "common": {
+    "undo": "Undo",
+    "redo": "Redo",
+    "fullscreen": "Fullscreen",
+    "contact": "Contact Us",
+    "close": "Close"
+  },
+  "cookieConsent": {
+    "title": "🍪 Cookie Settings",
+    "description": "We use cookies to improve your browsing experience, analyze website traffic, and personalize content.",
+    "learnMore": "Learn More",
+    "showDetails": "Settings",
+    "hideDetails": "Hide",
+    "acceptAll": "Accept All",
+    "acceptNecessary": "Accept Necessary",
+    "categories": {
+      "essential": {
+        "title": "Essential Cookies",
+        "description": "Required for basic website functionality and cannot be disabled."
+      },
+      "functional": {
+        "title": "Functional Cookies",
+        "description": "Remember your preferences to provide better personalized experience."
+      },
+      "analytics": {
+        "title": "Analytics Cookies",
+        "description": "Help us understand how visitors interact with the website, collect and report information."
+      }
+    }
+  },
+  "about": {
+    "title": "About",
+    "lastUpdated": "Last updated: January 1, 2025",
+    "developerName": "Graphic Creator",
+    "developerTitle": "Independent Developer",
+    "intro": "I'm an independent developer passionate about technology and design. This project aims to provide content creators with a simple and efficient graphic creation tool, helping them quickly create image content suitable for various social platforms.",
+    "missionTitle": "Mission",
+    "mission": "To enable everyone to easily create professional-grade social media images without complex design software, producing high-quality content quickly.",
+    "featuresTitle": "Core Features",
+    "feature1Title": "Multi-platform Support",
+    "feature1Desc": "Supports various social media platform sizes including Douyin, Xiaohongshu, WeChat Official Accounts and more",
+    "feature2Title": "Rich Fonts",
+    "feature2Desc": "Carefully selected 20+ popular fonts to make your content stand out",
+    "feature3Title": "Watermark Protection",
+    "feature3Desc": "Customizable text or image watermarks to protect your work",
+    "feature4Title": "HD Export",
+    "feature4Desc": "One-click export of high-definition watermark-free images for easy sharing",
+    "techStack": "Tech Stack",
+    "contactTitle": "Contact",
+    "email": "Email",
+    "legalLinks": "Legal Links",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy",
+    "madeWith": "Made with",
+    "using": "using"
+  },
+  "faq": {
+    "title": "FAQ",
+    "lastUpdated": "Last updated: January 1, 2025",
+    "intro": "Here are answers to some common questions about Graphic Creator. If you can't find what you need, feel free to contact us via email.",
+    "q1": "Is this tool free?",
+    "a1": "Yes, Graphic Creator is completely free to use. You can create, edit, and export images at no cost.",
+    "q2": "Do exported images have watermarks?",
+    "a2": "No, exported images are watermark-free by default. You can add watermarks if needed.",
+    "q3": "What image sizes are supported?",
+    "a3": "We support common sizes for various social media platforms, including Douyin, Xiaohongshu, WeChat Official Accounts, Channels, and more. Custom sizes are also supported.",
+    "q4": "Can I upload my own background images?",
+    "a4": "Yes, you can upload local images as background. We support common formats like JPG, PNG, and GIF.",
+    "q5": "What fonts can I choose from?",
+    "a5": "We've carefully selected over 20 popular fonts, covering Chinese fonts, artistic fonts, handwriting fonts and more styles to meet different needs.",
+    "q6": "How do I add watermarks?",
+    "a6": "In the \"Watermark Settings\" on the left side of the editor, you can enable the watermark feature, choose text or image watermarks, and customize parameters like position, color, and opacity.",
+    "q7": "What's the resolution of exported images?",
+    "a7": "We provide HD and standard quality export options. HD export maintains the original size clarity, suitable for formal use; standard export has smaller file size, suitable for quick previews.",
+    "q8": "Are my images saved?",
+    "a8": "No. All image editing is done locally in your browser. We don't upload or save any of your images. Your editing content will not be retained after you close the browser.",
+    "cantFind": "Can't find what you need?",
+    "contactText": "If you have any questions or suggestions, feel free to contact us via email and we'll respond as soon as possible.",
+    "contactButton": "Contact Us"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Last updated: January 1, 2025",
+      "section1": {
+        "title": "Introduction",
+        "p1": "We take your privacy very seriously. This Privacy Policy explains how we handle your information.",
+        "p2": "This tool is a pure frontend application. All operations are performed locally in your browser. We do not collect, store, or transmit any of your personal information."
+      },
+      "section2": {
+        "title": "Information Collection",
+        "p1": "We **do not collect any user personal information**. All content you create (including text, images, etc.) is stored only in your local browser.",
+        "li1": "Local processing: Text you enter and images you select are processed temporarily in your browser memory and cleared when you close the browser",
+        "li2": "No server transmission: Content you create is never uploaded to our servers or any third-party services",
+        "li3": "Cookies: Only used to remember your language preference, contains no personally identifiable information",
+        "li4": "No analytics tracking: We do not use any analytics tools or tracking codes"
+      },
+      "section3": {
+        "title": "Use of Information",
+        "p1": "Since we do not collect any user information, there is no use of information."
+      },
+      "section4": {
+        "title": "Information Sharing",
+        "p1": "We **do not share your information with any third parties** because we do not collect any information at all."
+      },
+      "section5": {
+        "title": "Data Security",
+        "p1": "Since all data is processed in your local browser, you have complete control over your data. We recommend regularly clearing your browser cache and cookies."
+      },
+      "section6": {
+        "title": "Your Rights",
+        "p1": "Under applicable law, you have the right to: access your personal data, correct inaccurate data, delete your data, object to or restrict processing, data portability. You can exercise these rights by contacting us."
+      },
+      "section7": {
+        "title": "Children's Privacy",
+        "p1": "Our service is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13."
+      },
+      "section8": {
+        "title": "Policy Changes",
+        "p1": "We may update this Privacy Policy from time to time. Any changes will be posted on this page and the \"Last updated\" date will be updated accordingly. Significant changes will be notified to you in advance."
+      }
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "lastUpdated": "Last updated: January 1, 2025",
+      "section1": {
+        "title": "Acceptance of Terms",
+        "p1": "Welcome to use the Social Media Graphic Creator. By accessing or using our service, you agree to comply with these Terms of Service.",
+        "p2": "If you do not agree to these terms, please do not use our service."
+      },
+      "section2": {
+        "title": "Service Description",
+        "p1": "Our tool provides the following features:",
+        "li1": "Multiple social media platform size options",
+        "li2": "Customizable text editing and layout",
+        "li3": "Background color and image settings",
+        "li4": "Watermark functionality",
+        "li5": "Image export (HD/Normal quality)"
+      },
+      "section3": {
+        "title": "Usage Guidelines",
+        "p1": "You agree to:",
+        "li1": "Comply with applicable laws and regulations",
+        "li2": "Not create or distribute illegal, harmful, fraudulent, or infringing content",
+        "li3": "Not attempt to hack, reverse engineer, or interfere with our service",
+        "li4": "Not abuse or excessively use our service",
+        "p2": "You commit not to use this tool to create the following content:",
+        "p3": "Content that violates laws and regulations; materials that infringe intellectual property; pornographic, violent, or hate speech; fraudulent or deceptive information; other harmful content.",
+        "li2": "Respect intellectual property rights, only use images and fonts you have the right to use",
+        "li3": "Be responsible for the security of your account and password"
+      },
+      "section4": {
+        "title": "Intellectual Property",
+        "p1": "Regarding intellectual property:",
+        "li1": "Content you create is owned by you",
+        "li2": "Our tool and interface design are protected by intellectual property rights",
+        "li3": "You must ensure that materials you use (images, fonts) have proper authorization",
+        "li4": "We are not responsible for the legality of third-party materials"
+      },
+      "section5": {
+        "title": "Disclaimer",
+        "p1": "To the maximum extent permitted by applicable law:",
+        "li1": "Service is provided \"as is\" without any express or implied warranties",
+        "li2": "We do not guarantee uninterrupted, error-free, or virus-free service",
+        "li3": "We are not liable for any direct or indirect losses arising from the use of the service"
+      },
+      "section6": {
+        "title": "Service Changes",
+        "p1": "We reserve the right to modify or terminate the service at any time without prior notice.",
+        "p2": "We may perform regular maintenance on the service, during which the service may be temporarily unavailable."
+      },
+      "section7": {
+        "title": "Termination of Use",
+        "p1": "Under the following circumstances, we may terminate your access:",
+        "li1": "Violation of these Terms of Service",
+        "li2": "Legal or regulatory requirements",
+        "li3": "Service termination or permanent shutdown"
+      },
+      "section8": {
+        "title": "Dispute Resolution",
+        "p1": "Any disputes arising from the use of this service shall be resolved through friendly negotiation. If negotiation fails, the laws of the People's Republic of China shall apply."
+      },
+      "section9": {
+        "title": "Contact Us",
+        "p1": "If you have any questions about these Terms of Service, please contact us at gueson1989@163.com."
+      }
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "lastUpdated": "Last updated: January 1, 2025",
+      "section1": {
+        "title": "What are Cookies",
+        "p1": "Cookies are small text files stored on your device when you visit a website.",
+        "p2": "We use cookies and similar technologies to enhance your user experience, remember your preferences, and analyze website traffic."
+      },
+      "section2": {
+        "title": "Types of Cookies We Use",
+        "p1": "We use the following types of cookies:",
+        "li1": "Essential cookies: Cookies necessary to ensure the website functions properly",
+        "li2": "Functional cookies: To remember your preferences (such as language, theme selection)",
+        "li3": "Analytics cookies: To help us understand how visitors interact with the website"
+      },
+      "section3": {
+        "title": "Cookie Details",
+        "p1": "Below is a list of specific cookies we use on our website:",
+        "th1": "Cookie Name",
+        "th2": "Purpose",
+        "th3": "Expiration",
+        "tr1td1": "_ga",
+        "tr1td2": "Google Analytics - User identification",
+        "tr1td3": "2 years",
+        "tr2td1": "_gid",
+        "tr2td2": "Google Analytics - User identification",
+        "tr2td3": "24 hours",
+        "tr3td1": "locale",
+        "tr3td2": "Remember language preference",
+        "tr3td3": "1 year"
+      },
+      "section4": {
+        "title": "How to Manage Cookies",
+        "p1": "You can manage cookie settings through:",
+        "li1": "Browser settings: Most browsers allow you to block or delete cookies",
+        "li2": "Browser extensions: Use privacy protection plugins",
+        "li3": "Cookie consent settings on this website"
+      },
+      "section5": {
+        "title": "Third-party Cookies",
+        "p1": "Our website may include cookies from third-party services, such as:",
+        "p2": "Google Analytics (website analytics), social media share buttons, etc. These cookies are set by respective third parties and are governed by their privacy policies."
+      },
+      "section6": {
+        "title": "GDPR Compliance",
+        "p1": "For EU users, we are committed to complying with GDPR regulations. We will obtain your explicit consent before collecting non-essential cookies. You have the right to withdraw consent and manage your cookie preferences at any time."
+      },
+      "section7": {
+        "title": "Policy Updates",
+        "p1": "We may update this Cookie Policy from time to time. Any changes will be posted on this page."
+      }
+    }
+  }
+}
