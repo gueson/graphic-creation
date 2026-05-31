@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { CookieProvider } from '@/hooks/useCookieConsent';
+import { Analytics } from '@/components/Analytics';
 import '../globals.css';
 
 const locales = ['zh', 'en'];
@@ -80,6 +81,7 @@ export default async function LocaleLayout({
         />
       </head>
       <body className="min-h-screen bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 antialiased">
+        <Analytics />
         <CookieProvider>
           <NextIntlClientProvider messages={messages}>
             {children}
